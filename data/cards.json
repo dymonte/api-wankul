@@ -1,0 +1,2886 @@
+[
+    {
+        "id": 1,
+        "ref": "#1",
+        "name": "Navire Pirate",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/001.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.43",
+        "abilities": [
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 5 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Quand ce Terrain entre en jeu, chaque joueur defausse une carte."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "ref": "#2",
+        "name": "Portal",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/002.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.41",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "D\u00e9place un Personnage depuis ce Terrain vers un autre."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 3 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Les cartes Terracid ont +1 en Force"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "ref": "#3",
+        "name": "Quantum",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/003.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.39",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Reprend en main la carte du dessus de sa d\u00e9fausse."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 3 cartes du dessus de son deck."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "ref": "#4",
+        "name": "Rocket Field",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/004.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.37",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "D\u00e9fausse les 2 cartes du dessus de son deck."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 5 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Si un joueur a moins de 3 cartes en main, il pioche une carte."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "ref": "#5",
+        "name": "Rust",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/005.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.38",
+        "abilities": [
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse autant de cartes du dessus de son deck qu'il a de cartes en main."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Au d\u00e9but de son tour, chaque joueur pioche une carte de plus."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "ref": "#6",
+        "name": "Il fait pas chaud",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/006.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Yuriiick",
+        "drop": "0.36",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Reprend en main un Terrain de sa d\u00e9fausse."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse 2 cartes de sa main par Terrain encore en jeu."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Pendant son tour, chaque joueur joue un Terrain ou d\u00e9fausse une carte."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "ref": "#7",
+        "name": "Golf",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/007.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Yuriiick",
+        "drop": "0.36",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Pioche pour avoir 5 cartes en main."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse pour avoir au maximum 3 cartes en main."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Chaque joueur pioche une carte de plus \u00e0 son tour."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "ref": "#8",
+        "name": "Dust 2",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/008.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Yuriiick",
+        "drop": "0.37",
+        "abilities": [
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 3 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Aucun autre Terrain ne peut \u00eatre pos\u00e9 tant que celui-ci est en jeu."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "ref": "#9",
+        "name": "Space Factory",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/009.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Yuriiick",
+        "drop": "0.37",
+        "abilities": [
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse toutes les cartes de sa main."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Si un joueur pioche, il le fait jusqu'\u00e0 avoir au moins 5 cartes en main."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "ref": "#10",
+        "name": "La F.A.Q.",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/010.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Yuriiick",
+        "drop": "0.39",
+        "abilities": [
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 3 cartes du dessus de son deck."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "ref": "#11",
+        "name": "Mus\u00e9e",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/011.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Jaycee",
+        "drop": "0.4",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Reprend en main un Terrain de sa d\u00e9fausse."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 4 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Aucun joueur ne peut piocher s'il a 3 cartes ou plus en main."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "ref": "#12",
+        "name": "FNAF",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/012.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Jaycee",
+        "drop": "0.36",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Repose autant de cartes qu'il veut de sa main sur le dessus de son deck."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse toutes les cartes de sa main."
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "ref": "#13",
+        "name": "Village",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/013.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Jaycee",
+        "drop": "0.37",
+        "abilities": [
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 3 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Quand ce Terrain entre en jeu, chaque joueur joue un Personnage gratuitement."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "ref": "#14",
+        "name": "La Ferme",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/014.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Jaycee",
+        "drop": "0.38",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Joue une de ses cartes gratuitement."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 3 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Toutes les cartes Personnage co\u00fbtent +1 \u00e0 poser."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "ref": "#15",
+        "name": "Socisseau Factory",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/015.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Jaycee",
+        "drop": "0.37",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Score un autre Terrain, de son choix (si possible)."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 3 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Si un joueur a plus de 5 cartes en main, il d\u00e9fausse pour n'en avoir que 5."
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "ref": "#16",
+        "name": "Trou du monde",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/016.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Ben GILETTI",
+        "drop": "0.36",
+        "abilities": [
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 3 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Interdiction de jouer une carte ayant le m\u00eame nom qu'une carte d\u00e9j\u00e0 en jeu."
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "ref": "#17",
+        "name": "Moria",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/017.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Ben GILETTI",
+        "drop": "0.35",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "D\u00e9place un de ses Personnages depuis ce Terrain vers un autre."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 3 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Les cartes Laink ont +1 en Force."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "ref": "#18",
+        "name": "Tchernobyl",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/018.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Ben GILETTI",
+        "drop": "0.38",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Reprend en main un de ses Personnages qui \u00e9tait sur ce Terrain."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 3 cartes du dessus de son deck."
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "ref": "#19",
+        "name": "Valheim",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/019.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Ben GILETTI",
+        "drop": "0.39",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "D\u00e9fausse la premi\u00e8re carte du dessus de son deck."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 5 cartes du dessus de son deck."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "ref": "#20",
+        "name": "Tranch\u00e9es",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/020.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Ben GILETTI",
+        "drop": "0.36",
+        "abilities": [
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 4 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Sur ce Terrain, tous les Personnages co\u00fbtent +2 \u00e0 poser."
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "ref": "#21",
+        "name": "Ravenholm",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/021.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Ben GILETTI",
+        "drop": "0.35",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "\u00c9change son deck et sa d\u00e9fausse, puis d\u00e9fausse sa main."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 4 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Ce Terrain ne peut \u00eatre scor\u00e9 que s'il est le seul Terrain en jeu."
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "ref": "#22",
+        "name": "Urbex",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/022.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Lhotus",
+        "drop": "0.39",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Regarde les 5 premi\u00e8res cartes du deck adverse et les r\u00e9organise."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 4 cartes du dessus de son deck."
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "ref": "#23",
+        "name": "Manoir",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/023.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.37",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Reprend en main la carte du dessus de sa d\u00e9fausse."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 5 cartes du dessus de son deck."
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "ref": "#24",
+        "name": "Barrage",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/024.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Ben GILETTI",
+        "drop": "0.39",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Cherche une carte dans son deck, la met en main et m\u00e9lange son deck."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 4 cartes du dessus de son deck."
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "ref": "#25",
+        "name": "Chernogorsk",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/025.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Lhotus",
+        "drop": "0.39",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Reprend en main la carte du dessus de sa d\u00e9fausse."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 4 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Toutes les cartes Personnage co\u00fbtent 1 de moins \u00e0 poser."
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "ref": "#26",
+        "name": "Agrou",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/026.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Lhotus",
+        "drop": "0.39",
+        "abilities": [
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 3 cartes du dessus de son deck."
+            },
+            {
+                "target": " Effet tant que le terrain est en jeu ",
+                "value": "Quand ce terrain est en jeu, chaque joueur d\u00e9fausse un Personnage en jeu."
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "ref": "#27",
+        "name": "Garage",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/027.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Lhotus",
+        "drop": "0.36",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Reprend en main un Terrain de sa d\u00e9fausse."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 3 cartes du dessus de son deck."
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "ref": "#28",
+        "name": "Uretus",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/028.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Lhotus",
+        "drop": "0.37",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "D\u00e9fausse, si possible, un autre Terrain en jeu et le remplace par un de sa main."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse les 3 cartes du dessus de son deck."
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "ref": "#29",
+        "name": "Wankil Show",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/029.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Lhotus",
+        "drop": "0.37",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Prend la carte du dessus de sa d\u00e9fausse en main pour chacune de ses cartes Laink en Jeu."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse la carte du dessus de son deck jusqu'\u00e0 d\u00e9fausser une carte Terracid."
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "ref": "#30",
+        "name": "Convention",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/030.webp",
+        "type": "terrain",
+        "rarity": "Terrain",
+        "artist": "Lhotus",
+        "drop": "0.37",
+        "abilities": [
+            {
+                "target": "Effet pour le gagnant",
+                "value": "Prend la carte du dessus de sa d\u00e9fausse en main pour chacune de ses cartes Terracid en Jeu."
+            },
+            {
+                "target": "Effet pour le perdant",
+                "value": "D\u00e9fausse la carte du dessus de son deck jusqu'\u00e0 d\u00e9fausser une carte Laink."
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "ref": "#31",
+        "name": "Garagiste",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/031.webp",
+        "desc": "\"C'est la rotule d'embrayage de la culasse qu'a pet\u00e9. On sera dans les 5000 balles, ma bonne dame.\"",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.89",
+        "abilities": [
+            "Piochez une carte. Combo : En continu : +1 en Force"
+        ]
+    },
+    {
+        "id": 32,
+        "ref": "#32",
+        "name": "Garagiste",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/032.webp",
+        "desc": "Sur le c\u00f4t\u00e9 droit, on trouve la jauge \u00e0 huile. Sur le c\u00f4t\u00e9 gauche, on trouve le c\u00f4t\u00e9 gauche.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.9",
+        "abilities": [
+            "Piochez une carte."
+        ]
+    },
+    {
+        "id": 33,
+        "ref": "#33",
+        "name": "Camionneur",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/033.webp",
+        "desc": "\"Quand je vois les flammes sur mon camtar, \u00e7a me donne envie de chialer.\"",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.81",
+        "abilities": [
+            "D\u00e9faussez un Personnage adverse en jeu d'une Force de 3 maximum.\nCombo : Piochez une carte."
+        ]
+    },
+    {
+        "id": 34,
+        "ref": "#34",
+        "name": "Camionneur",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/034.webp",
+        "desc": "Souvent vu sur l'A1 \u00e0 150 km/h, avec du pinard, un sandwich rosette et Johnny \u00e0 fond dans la cabine.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.86",
+        "abilities": [
+            "D\u00e9faussez un Personnage adverse en jeu d'une Force de 3 maximum."
+        ]
+    },
+    {
+        "id": 35,
+        "ref": "#35",
+        "name": "Vendeur",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/035.webp",
+        "desc": "Le saviez-vous? Brico Sympa est n\u00e9 de la collaboration entre 2 types qui savent pas percer un mur.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.92",
+        "abilities": [
+            "Continu : Votre adversaire d\u00e9fausse une carte de plus, si vous gagnez un Terrain.\nCombo : Scorez un Terrain."
+        ]
+    },
+    {
+        "id": 36,
+        "ref": "#36",
+        "name": "Vendeur",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/036.webp",
+        "desc": "Vu \u00e0 la t\u00e9l\u00e9, Socisseau est LA r\u00e9volution de la saucisse sous vide au go\u00fbt douteux !",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.89",
+        "abilities": [
+            "Continu : Votre adversaire d\u00e9fausse une carte de plus, si vous gagnez un Terrain."
+        ]
+    },
+    {
+        "id": 37,
+        "ref": "#37",
+        "name": "Annabelle",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/037.webp",
+        "desc": "Aucun de ses propri\u00e9taires n'a jamais eu \u00e0 se plaindre d'elle (ils sont tous morts).",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Yuriiick",
+        "drop": "0.92",
+        "abilities": [
+            "Continu : Votre adversaire d\u00e9fausse une carte de plus, si vous gagnez un Terrain.\nCombo : Scorez un Terrain."
+        ]
+    },
+    {
+        "id": 38,
+        "ref": "#38",
+        "name": "Grudge",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/038.webp",
+        "desc": "Elle fait peur comme \u00e7a, mais en r\u00e9alit\u00e9, si on apprend \u00e0 la conna\u00eetre, elle est super sympa.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Yuriiick",
+        "drop": "0.84",
+        "abilities": [
+            "D\u00e9faussez un Personnage en jeu chez votre adversaire. Combo : Piochez une carte par point de Force\nchez le Personnage d\u00e9fauss\u00e9."
+        ]
+    },
+    {
+        "id": 39,
+        "ref": "#39",
+        "name": "Astronaute",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/039.webp",
+        "desc": "\"All\u00f4, Houston ! Il y a un invit\u00e9 surprise dans le vaisseau, vous pourriez m'aider ?",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Yuriiick",
+        "drop": "0.83",
+        "abilities": [
+            "Continu : Si votre adversaire d\u00e9fausse un moins 2 cartes, il en d\u00e9fausse une de plus."
+        ]
+    },
+    {
+        "id": 40,
+        "ref": "#40",
+        "name": "Astronaute",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/040.webp",
+        "desc": "Ses derni\u00e8res paroles ont \u00e9t\u00e9 : \"Hal, pourquoi tu as ouvert tous les SAS de s\u00e9curit\u00e9 ?\"",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Yuriiick",
+        "drop": "0.81",
+        "abilities": [
+            "Continu : Si votre adversaire d\u00e9fausse un moins 2 cartes, il en d\u00e9fausse une de plus.\nCombo : Piochez 2 cartes."
+        ]
+    },
+    {
+        "id": 41,
+        "ref": "#41",
+        "name": "Boxeur",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/041.webp",
+        "desc": "Tout le temps couch\u00e9 au 1er round, mais ne baisse jamais les bras car monte toujours sa garde.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Jaycee",
+        "drop": "0.83",
+        "abilities": [
+            "Continu : D\u00e9faussez 1 carte de moins pour mettre vos Personnages en jeu. Combo : Continu : A chaque fois que votre\nadversaire d\u00e9fausse 2 cartes ou plus, piochez une carte."
+        ]
+    },
+    {
+        "id": 42,
+        "ref": "#42",
+        "name": "Boxeur",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/042.webp",
+        "desc": "La seule ceinture qu'il a eue \u00e9tait celle de s\u00e9curit\u00e9 dans sa Peugeot 206.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.86",
+        "abilities": [
+            "Continu : Votre adversaire doit d\u00e9faussez une carte de plus pour poser ses Personnages."
+        ]
+    },
+    {
+        "id": 43,
+        "ref": "#43",
+        "name": "Infect\u00e9",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/043.webp",
+        "desc": "\"Eeeeeuuuh... zbaaaarg mhhh oooooergggg !\"",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Jaycee",
+        "drop": "0.85",
+        "abilities": [
+            "Continu : Si vous avez plus de cartes dans votre d\u00e9fausse que dans votre deck, reprenez en main la carte du dessus de votre d\u00e9fausse en d\u00e9but de tour.\nCombo : Reprenez en main la carte du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 44,
+        "ref": "#44",
+        "name": "Infect\u00e9",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/044.webp",
+        "desc": "\"Blaaaarg mhhhhoooooo euuuuuoooo saucisse zbeeeeerg !\"",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.85",
+        "abilities": [
+            "Continu : Si vous avez plus de cartes dans votre d\u00e9fausse que dans votre deck, reprenez en main la carte du dessus de votre d\u00e9fausse en d\u00e9but de tour."
+        ]
+    },
+    {
+        "id": 45,
+        "ref": "#45",
+        "name": "Fermier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/045.webp",
+        "desc": "Depuis qu'il a quitt\u00e9 la ville pour un village, il a la belle vie \u00e0 la ferme de Tournan-en-Brie.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Jaycee",
+        "drop": "0.87",
+        "abilities": [
+            "Continu : Au moment de scorer, vos Personnages Terracid ont +1 en Force."
+        ]
+    },
+    {
+        "id": 46,
+        "ref": "#46",
+        "name": "Fermier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/046.webp",
+        "desc": "Il a tout plaqu\u00e9 et est parti \u00e9lever des vaches par passion. Le lait qu'il produit est d\u00e9gueulasse.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.84",
+        "abilities": [
+            "Continu : Au moment de scorer, vos Personnages Laink ont +1 en Force."
+        ]
+    },
+    {
+        "id": 47,
+        "ref": "#47",
+        "name": "Chien",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/047.webp",
+        "desc": "\"Wouf, wouf !\"",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Jaycee",
+        "drop": "0.85",
+        "abilities": [
+            "Si vous gagner un Score ce tour, appliquez 2 fois son effet Gagnant.\nCombo : Scorez un Terrain."
+        ]
+    },
+    {
+        "id": 48,
+        "ref": "#48",
+        "name": "Cochon",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/048.webp",
+        "desc": "Gruik, gruik !",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.81",
+        "abilities": [
+            "Si vous avez un Score ce tour, votre adversaire applique 2 fois son effet Perdant"
+        ]
+    },
+    {
+        "id": 49,
+        "ref": "#49",
+        "name": "Fromager",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/049.webp",
+        "desc": "L'avantage est que, dans sa fromagerie, il peut faire un prout bien odorant en toute discr\u00e9tion.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Jaycee",
+        "drop": "0.89",
+        "abilities": [
+            "Vous et votre adversaire d\u00e9faussez la premi\u00e8re carte de votre deck.\nSi la v\u00f4tre a plus en Force, r\u00e9cup\u00e9rez-la en main."
+        ]
+    },
+    {
+        "id": 50,
+        "ref": "#50",
+        "name": "Charcutier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/050.webp",
+        "desc": "Jambon, saucisson, terrine, rillettes, mais surtout un excellent boudin qui pue bien comme il faut.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.87",
+        "abilities": [
+            "Vous et votre adversaire d\u00e9faussez la premi\u00e8re carte de votre deck.\nSi la v\u00f4tre a plus en Force, r\u00e9cup\u00e9rez-la en main."
+        ]
+    },
+    {
+        "id": 51,
+        "ref": "#51",
+        "name": "Businessman",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/051.webp",
+        "desc": "Il para\u00eet qu'il a rachet\u00e9 tous les h\u00f4pitaux pour en faire des casinos.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.87",
+        "abilities": [
+            "Continu : Si vous avez moins de Personnages en jeu que votre adversaire, le co\u00fbt pour poser vos Personnages est diminu\u00e9 de 2."
+        ]
+    },
+    {
+        "id": 52,
+        "ref": "#52",
+        "name": "D\u00e9bile",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/052.webp",
+        "desc": "Inventeur de la paille saucisse et de l'oeuf sur PC, il est d\u00e9sormais \u00e9tudi\u00e9 pour son \"intelligence\".",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Ben GILETTI",
+        "drop": "0.91",
+        "abilities": [
+            "Echangez la position de deux de vos Personnages en jeu."
+        ]
+    },
+    {
+        "id": 53,
+        "ref": "#53",
+        "name": "D\u00e9bile",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/053.webp",
+        "desc": "Il pense encore que le tacos saucisse va r\u00e9volutionner le monde de la cuisine.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Ben GILETTI",
+        "drop": "0.86",
+        "abilities": [
+            "Echangez la position de deux de vos Personnages en jeu."
+        ]
+    },
+    {
+        "id": 54,
+        "ref": "#54",
+        "name": "Paysan",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/054.webp",
+        "desc": "Il est incapable de compter le nombre de dents de sa fourche, mais y a pas plus cal\u00e9 en cochon !",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Ben GILETTI",
+        "drop": "0.82",
+        "abilities": [
+            "Reprenez en main un Terrain de votre d\u00e9fausse.\nCombo : Reprenez en main un Terrain de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 55,
+        "ref": "#55",
+        "name": "Paysan",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/055.webp",
+        "desc": "Une fois le paysan voisin lui a vol\u00e9 une ch\u00e8vre. Pour se venger il lui a cram\u00e9 sa baraque.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Ben GILETTI",
+        "drop": "0.85",
+        "abilities": [
+            "Reprend en main un Terrain de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 56,
+        "ref": "#56",
+        "name": "Cuisinier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/056.webp",
+        "desc": "C\u00e9l\u00e8bre inventeur du nutri-score F et reconnu pour sa cuisine g\u00e9n\u00e9reuse (voire dangereuse).",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Ben GILETTI",
+        "drop": "0.86",
+        "abilities": [
+            "Regardez les 3 prochaines cartes du deck de votre adversaire et reposez-les dans l'ordre de votre choix."
+        ]
+    },
+    {
+        "id": 57,
+        "ref": "#57",
+        "name": "Cuisinier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/057.webp",
+        "desc": "Il a particip\u00e9 bri\u00e8vement \u00e0 une \u00e9mission de cuisine, intoxiqu\u00e9 tout le jury et br\u00fbl\u00e9 50% du studio.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Ben GILETTI",
+        "drop": "0.83",
+        "abilities": [
+            "Regardez les 3 prochaines cartes du deck de votre adversaire et reposez-les dans l'ordre de votre choix.\nCombo : Piochez une carte."
+        ]
+    },
+    {
+        "id": 58,
+        "ref": "#58",
+        "name": "B\u00e9b\u00e9",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/058.webp",
+        "desc": "Il semble avoir trouv\u00e9 le jouet de maman.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Ben GILETTI",
+        "drop": "0.84",
+        "abilities": [
+            "Continu : Si vous ne l'avez pas jou\u00e9 ce tour, \u00e9changez ce Personnage avec un Personnage de votre main et d\u00e9faussez une carte."
+        ]
+    },
+    {
+        "id": 59,
+        "ref": "#59",
+        "name": "B\u00e9b\u00e9",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/059.webp",
+        "desc": "Avec 18 compotes par jour, b\u00e9b\u00e9 est oblig\u00e9 de rester constamment sur le pot.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Ben GILETTI",
+        "drop": "0.86",
+        "abilities": [
+            "Continu : Si vous ne l'avez pas jou\u00e9 ce tour, \u00e9changez ce Personnage avec un Personnage de votre main et d\u00e9faussez une carte."
+        ]
+    },
+    {
+        "id": 60,
+        "ref": "#60",
+        "name": "Chasseur",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/060.webp",
+        "desc": "\"J'ai abattu un cerf ce matin ! Par contre, super bizarre, il avait un anorak jaune et des moufles.\"",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Ben GILETTI",
+        "drop": "0.84",
+        "abilities": [
+            "D\u00e9faussez un de vos Personnages et un Personnage adverse.\nCombo : Regardez la carte du dessous de votre deck. Vous pouvez la reposer au dessus."
+        ]
+    },
+    {
+        "id": 61,
+        "ref": "#61",
+        "name": "Pilote d'avion",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/061.webp",
+        "desc": "\"Mesdmaes, messieurs, bienvenue \u00e0 bord du vol 3770, veuillez attacher vos ceintures, \u00e7a va secouer.\"",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Ben GILETTI",
+        "drop": "0.87",
+        "abilities": [
+            "D\u00e9placez un autre Personnage d'un Terrain vers un autre.\nCombo : Reprenez en main la carte du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 62,
+        "ref": "#62",
+        "name": "Agrou",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/062.webp",
+        "desc": "Tout le village a vot\u00e9 pour le pendre la premi\u00e8re nuit alors qu'il \u00e9tait Maire depuis 5 minutes.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Jaycee",
+        "drop": "0.83",
+        "abilities": [
+            "Continu : Ce Personnage a +1 en Force pour chaque carte que vous avez en main."
+        ]
+    },
+    {
+        "id": 63,
+        "ref": "#63",
+        "name": "Agrou",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/063.webp",
+        "desc": "Une fois il s'est transform\u00e9 en loup-garou mais vu qu'il est v\u00e9g\u00e9tarien, il est rest\u00e9 super sympa.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.86",
+        "abilities": [
+            "Continu : Ce Personnage a +1 en Force pour chaque carte que vous avez en main.\nCombo : Piochez une carte."
+        ]
+    },
+    {
+        "id": 64,
+        "ref": "#64",
+        "name": "Chevalier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/064.webp",
+        "desc": "On lui a ordonn\u00e9 de prot\u00e9ger le bien le plus pr\u00e9cieux du ch\u00e2teau : la cave \u00e0 bi\u00e8re.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Ma\u00ebl LOHBRUNNER",
+        "drop": "0.9",
+        "abilities": [
+            "Continu : Pour votre adversaire, le co\u00fbt pour poser un Personnage est augment\u00e9 de 1.\nCombo : D\u00e9faussez un Personnage en jeu d'une Force de 2 ou moins."
+        ]
+    },
+    {
+        "id": 65,
+        "ref": "#65",
+        "name": "Chevalier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/065.webp",
+        "desc": "Il a brav\u00e9 tous les dangers pour sauver la princesse de Montmirail (marcher sous la pluie).",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Ma\u00ebl LOHBRUNNER",
+        "drop": "0.85",
+        "abilities": [
+            "Continu : Une fois par tour, quand vous d\u00e9clenchez une combo, reprenez en main la carte du dessus de votre d\u00e9fausse.\nCombo : Reprenez en main un Terrain de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 66,
+        "ref": "#66",
+        "name": "Peintre",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/066.webp",
+        "desc": "Il utilise le pointillisme, comme un de ses camarades de classe autrichiens d'ailleurs.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Ma\u00ebl LOHBRUNNER",
+        "drop": "0.82",
+        "abilities": [
+            "Continu : Ce Personnage a +1 en Force, pour chacune de vos combos en jeu."
+        ]
+    },
+    {
+        "id": 67,
+        "ref": "#67",
+        "name": "Peintre",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/067.webp",
+        "desc": "Beaucoup de talent, mais si vous voulez le f\u00e9liciter pour \u00e7a, alors ne parlez qu'\u00e0 sa droite.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Ma\u00ebl LOHBRUNNER",
+        "drop": "0.82",
+        "abilities": [
+            "Continu : Ce Personnage a +1 en Force, pour chacune de vos combos en jeu. Combo : Continu : Ce Personnage a +1 en Force, pour chacune de vos combos en jeu."
+        ]
+    },
+    {
+        "id": 68,
+        "ref": "#68",
+        "name": "Pompier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/068.webp",
+        "desc": "Le pauvre, il ne voulait \u00eatre pompier que pour draguer, il ne savait pas qu'il allait \u00eatre sur le terrain.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.83",
+        "abilities": [
+            "Si c'est la premi\u00e8re carte pos\u00e9e sur son Terrain, reprenez en main les 3 cartes du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 69,
+        "ref": "#69",
+        "name": "Pompier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/069.webp",
+        "desc": "Un vrai pompier choisira toujours de sauver en premier ce qu'il y a de plus important.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.82",
+        "abilities": [
+            "Si c'est la premi\u00e8re carte pos\u00e9e sur son Terrain, reprenez en main les 4 cartes du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 70,
+        "ref": "#70",
+        "name": "Sorcier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/070.webp",
+        "desc": "Demandez-lui une potion d'invisibilit\u00e9 et vous aurez une chance sur deux d'\u00eatre empoisonn\u00e9.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Lhotus",
+        "drop": "0.85",
+        "abilities": [
+            "Continu : Votre adversaire ne peut pas jouer de Personnage de Force 2 ou plus sur le Terrain o\u00f9 est ce Personnage."
+        ]
+    },
+    {
+        "id": 71,
+        "ref": "#71",
+        "name": "Sorcier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/071.webp",
+        "desc": "Une fois il a fait dispara\u00eetre le petit Jimmy pendant un spectacle, il n'est jamais r\u00e9apparu.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Lhotus",
+        "drop": "0.85",
+        "abilities": [
+            "Continu : Votre adversaire ne peut pas jouer de Personnage de Force 2 ou plus sur le Terrain o\u00f9 est ce Personnage."
+        ]
+    },
+    {
+        "id": 72,
+        "ref": "#72",
+        "name": "SDF",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/072.webp",
+        "desc": "Surnomm\u00e9 \"L'Architecte\", il aurait construit un 15m\u00b2 int\u00e9gralement en carton.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Lhotus",
+        "drop": "0.82",
+        "abilities": [
+            "Continu : Si c'est votre seul Personnage sur ce Terrain, il a +5 en Force.\nCombo : Reprenez en main la carte du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 73,
+        "ref": "#73",
+        "name": "SDF",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/073.webp",
+        "desc": "Il a sorti une chanson \u00e0 succ\u00e8s sur sa libert\u00e9 de penser et \u00e7a s'est fini par un contr\u00f4le fiscal.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Lhotus",
+        "drop": "0.91",
+        "abilities": [
+            "Continu : Si c'est votre seul Personnage sur ce Terrain, il a +5 en Force."
+        ]
+    },
+    {
+        "id": 74,
+        "ref": "#74",
+        "name": "Touriste",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/074.webp",
+        "desc": "Habitu\u00e9 du camping des Vaguelettes depuis 30 ans, tireur de slips et responsable des ap\u00e9ros.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Lhotus",
+        "drop": "0.88",
+        "abilities": [
+            "Continu : Si ce Personnage participe \u00e0 un Score sur un Terrain, il n'est pas d\u00e9fauss\u00e9, mais va sur un autre Terrain de votre choix."
+        ]
+    },
+    {
+        "id": 75,
+        "ref": "#75",
+        "name": "Touriste",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/075.webp",
+        "desc": "D\u00e9tenteur du record de tubes de Biafine utilis\u00e9s en une semaine.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Lhotus",
+        "drop": "0.86",
+        "abilities": [
+            "Continu : Si ce Personnage participe \u00e0 un Score sur un Terrain, il n'est pas d\u00e9fauss\u00e9, mais va sur un autre Terrain de votre choix."
+        ]
+    },
+    {
+        "id": 76,
+        "ref": "#76",
+        "name": "Employ\u00e9 WcDo",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/076.webp",
+        "desc": "Tr\u00e8s gentil, mais incapable de retenir \"pain viande salade pain\"",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "Lhotus",
+        "drop": "0.83",
+        "abilities": [
+            "Continu : +1 en Force pour chaque Employ\u00e9 WcDo.\nCombo : Reprenez en main un carte WcDo de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 77,
+        "ref": "#77",
+        "name": "Employ\u00e9 WcDo",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/077.webp",
+        "desc": "Il fait pipi dans les frites des clients qui ne disent pas bonjour.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "Lhotus",
+        "drop": "0.86",
+        "abilities": [
+            "Continu : +1 en Force pour chaque Employ\u00e9 WcDo."
+        ]
+    },
+    {
+        "id": 78,
+        "ref": "#78",
+        "name": "Mort-Vivant",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/078.webp",
+        "desc": "Il a utilis\u00e9 son f\u00e9mur comme arme contre le dernier aventurier venu explorer sa grotte.",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Laink",
+        "artist": "O REDGE",
+        "drop": "0.85",
+        "abilities": [
+            "D\u00e9faussez ce personnage \u00e0 la fin de votre tour."
+        ]
+    },
+    {
+        "id": 79,
+        "ref": "#79",
+        "name": "Mort-Vivant",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/079.webp",
+        "desc": "Il garde le tr\u00e9sor enfoui de la caverne Longmur depuis plus de 300 ans. Il a avou\u00e9 s'ennuyer un peu",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "O REDGE",
+        "drop": "0.83",
+        "abilities": [
+            "D\u00e9faussez ce personnage \u00e0 la fin de votre tour.\nCombo : Scorez un Terrain."
+        ]
+    },
+    {
+        "id": 80,
+        "ref": "#80",
+        "name": "Soldat Romain",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/080.webp",
+        "desc": "C'est lui qui a invent\u00e9 la formation tortue, en r\u00e9f\u00e9rence \u00e0 l'animal du m\u00eame nom (la tortue).",
+        "type": "perso",
+        "rarity": "Commune",
+        "perso": "Terracid",
+        "artist": "O REDGE",
+        "drop": "0.82",
+        "abilities": [
+            "Continu : Ajoutez 3 cartes \u00e0 la Force d'un Personnage pour ce tour, puis d\u00e9faussez ce Personnage."
+        ]
+    },
+    {
+        "id": 81,
+        "ref": "#81",
+        "name": "Spiderlaink",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/081.webp",
+        "desc": "La race d'araign\u00e9es \u00e9tait super bof. Du coup il fait 50kg, ne sait pas se battre et livre des pizzas.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.59",
+        "abilities": [
+            "Votre adversaire d\u00e9fausse la carte du dessus de son deck."
+        ]
+    },
+    {
+        "id": 82,
+        "ref": "#82",
+        "name": "Thorracid",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/082.webp",
+        "desc": "\"Si vous pouviez vous d\u00e9p\u00eacher de prendre la photo, car le marteau est tr\u00e8s lourd.\"",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.57",
+        "abilities": [
+            "Votre adversaire d\u00e9fausse la carte du dessus de son deck.\nCombo : Votre adversaire d\u00e9fausse la carte du dessus de son deck."
+        ]
+    },
+    {
+        "id": 83,
+        "ref": "#83",
+        "name": "CT",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/083.webp",
+        "desc": "Soldat d'\u00e9lite reconnu, il perd cependant tous ses moyens quand un Russe crie dans son micro.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.59",
+        "abilities": [
+            "Piochez une carte."
+        ]
+    },
+    {
+        "id": 84,
+        "ref": "#84",
+        "name": "Terro",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/084.webp",
+        "desc": "\"Il faut que je ma\u00eetrise mon nova pomme d'amour comme je ma\u00eetrise ma vie.\"",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.59",
+        "abilities": [
+            "Piochez une carte."
+        ]
+    },
+    {
+        "id": 85,
+        "ref": "#85",
+        "name": "Clown Tueur",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/085.webp",
+        "desc": "Il a v\u00e9cu 20 ans dans le placard d'enfance de Terracid, mais n'a jamais \u00e9t\u00e9 remarqu\u00e9 (d\u00e9pressif).",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.58",
+        "abilities": [
+            "Reprenez en main la carte du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 86,
+        "ref": "#86",
+        "name": "Joueur Du Grenier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/086.webp",
+        "desc": "Il a oeuvr\u00e9 toute sa vie contre l'addiction aux drogues chez les d\u00e9velippeur de jeux.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Guest",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.58",
+        "abilities": [
+            "D\u00e9faussez un Personnage en jeu de votre adversaire d'une Force de 2 maximum et scorez un Terrain.\nCombo : Votre adversaire d\u00e9fausse la carte du dessus de son deck."
+        ]
+    },
+    {
+        "id": 87,
+        "ref": "#87",
+        "name": "Seb",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/087.webp",
+        "desc": "Autrefois Youtubeur \u00e9m\u00e9rite, Seb vit d\u00e9sormais dans la jungle au sein d'une famille de chimpanz\u00e9s.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Guest",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.56",
+        "abilities": [
+            "Piochez une carte. Combo : Continu : +2 en Force."
+        ]
+    },
+    {
+        "id": 88,
+        "ref": "#88",
+        "name": "Amixem",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/088.webp",
+        "desc": "Grand entrepreneur et futur astronaute, mais a tendance \u00e0 \u00e9garer les objets offerts par ses amis.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Guest",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.6",
+        "abilities": [
+            "Piochez une carte."
+        ]
+    },
+    {
+        "id": 89,
+        "ref": "#89",
+        "name": "Pirate",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/089.webp",
+        "desc": "On raconte que son navire a coul\u00e9 dans le sud du Pacifique (\u00e0 cause du poids de l'or dans la cale).",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Yuriiick",
+        "drop": "0.6",
+        "abilities": [
+            "Votre adversaire d\u00e9fausse jusqu'\u00e0 ce qu'il ait autant de cartes en main que vous."
+        ]
+    },
+    {
+        "id": 90,
+        "ref": "#90",
+        "name": "Pirate",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/090.webp",
+        "desc": "Il aime l'or, le sang, la bagarre, mais aussi l'odeur des croissants chauds de la boulangerie.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Yuriiick",
+        "drop": "0.61",
+        "abilities": [
+            "Votre adversaire d\u00e9fausse jusqu'\u00e0 ce qu'il ait autant de cartes en main que vous."
+        ]
+    },
+    {
+        "id": 91,
+        "ref": "#91",
+        "name": "Semi-Homme",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/091.webp",
+        "desc": "Malgr\u00e9 les difficult\u00e9s, il insiste pour entretenir une romance h\u00e9t\u00e9ro curieuse avec son compagnon.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Yuriiick",
+        "drop": "0.62",
+        "abilities": [
+            "Continu : Vous pouvez d\u00e9fausser ce Personnage pour scorer un Terrain."
+        ]
+    },
+    {
+        "id": 92,
+        "ref": "#92",
+        "name": "Semi-Homme",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/092.webp",
+        "desc": "Il ne l'avouera pas, mais il cherche par tous les moyens \u00e0 s'accaparer de la rondelle de son compagnon.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Yuriiick",
+        "drop": "0.56",
+        "abilities": [
+            "Continu : Vous pouvez d\u00e9fausser ce Personnage pour scorer un Terrain.\nCombo : Placez une carte ou plusieurs cartes de votre main sous votre deck. Repiochez autant de cartes."
+        ]
+    },
+    {
+        "id": 93,
+        "ref": "#93",
+        "name": "Marthie",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/093.webp",
+        "desc": "Il fait croire \u00e0 tout le monde qu'il n'a pris aucun plaisir en embrassant sa propre m\u00e8re.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Yuriiick",
+        "drop": "0.55",
+        "abilities": [
+            "Continu : Au moment de scorer, vous pouvez jouer gratuitement une carte sur le Terrain scor\u00e9 sans en appliquer les effets.\nCombo : Piochez une carte."
+        ]
+    },
+    {
+        "id": 94,
+        "ref": "#94",
+        "name": "Doc",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/094.webp",
+        "desc": "A la base, il voulait juste mettre de la nitro dans sa DeLorean, puis \u00e7a a d\u00e9g\u00e9n\u00e9r\u00e9.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Yuriiick",
+        "drop": "0.58",
+        "abilities": [
+            "Continu : Au moment de scorer, vous pouvez jouer gratuitement une carte sur le Terrain scor\u00e9 sans en appliquer les effets.\nCombo : Reprenez en main la carte du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 95,
+        "ref": "#95",
+        "name": "Vieille",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/095.webp",
+        "desc": "\"J'ai d\u00e9ja vu le mar\u00e9chal P\u00e9tain en slip. Eh b\u00e9, croyez-moi, c'\u00e9tait pas beau \u00e0 voir !\"",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Yuriiick",
+        "drop": "0.6",
+        "abilities": [
+            "Echangez un de vos Personnages pos\u00e9s avec un de votre main de Force inf\u00e9rieure ou \u00e9gale.\nCombo : Piochez 3 cartes."
+        ]
+    },
+    {
+        "id": 96,
+        "ref": "#96",
+        "name": "Vieille",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/096.webp",
+        "desc": "\"Moi de mon temps, on avait un b\u00e2ton et des cailloux pour s'amuser et c'\u00e9tait tr\u00e8s bien comme \u00e7a !\"",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Yuriiick",
+        "drop": "0.59",
+        "abilities": [
+            "Echangez un de vos Personnages pos\u00e9s avec un de votre main de Force inf\u00e9rieure ou \u00e9gale."
+        ]
+    },
+    {
+        "id": 97,
+        "ref": "#97",
+        "name": "Fanboy",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/097.webp",
+        "desc": "A seulement 16 ans, comme chaque viewer du tchat, il est \u00e0 la fois arch\u00e9ologue, boulanger, comptable, m\u00e9canicien...",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Yuriiick",
+        "drop": "0.58",
+        "abilities": [
+            "Votre adversaire d\u00e9fausse depuis sa main pour avoir autant de cartes en main que vous."
+        ]
+    },
+    {
+        "id": 98,
+        "ref": "#98",
+        "name": "Fangirl",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/098.webp",
+        "desc": "Ne vous fiez pas \u00e0 son air innocent, elle a \u00e9crit pas moins de 326 fanfictions \u00e9rotiques sur ses Youtubeurs pr\u00e9f\u00e9r\u00e9s.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Yuriiick",
+        "drop": "0.59",
+        "abilities": [
+            "Votre adversaire d\u00e9fausse pour avoir autant de cartes en main que vous.\nCombo : Piochez 3 cartes."
+        ]
+    },
+    {
+        "id": 99,
+        "ref": "#99",
+        "name": "Gotaga",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/099.webp",
+        "desc": "Les journaux l'appellent \"French Monster\" ou \"Celui qui a pris une belle t\u00eate par Terracid\"",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Guest",
+        "artist": "Yuriiick",
+        "drop": "0.6",
+        "abilities": [
+            "D\u00e9faussez un de vos Personnages en jeu.\nVotre adversaire d\u00e9fausse autant de cartes de son deck que sa valeur en Force."
+        ]
+    },
+    {
+        "id": 100,
+        "ref": "#100",
+        "name": "Billy le bonhomme de neige",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/100.webp",
+        "desc": "Il aime No\u00ebl, sa casquette, mais surtout assasiner des gens discr\u00e8tement.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Random",
+        "artist": "Yuriiick",
+        "drop": "0.59",
+        "abilities": [
+            "Continu : Vous pouvez d\u00e9fausser ce Personnage pour scorer 1 ou 2 Terrains.\nCombo : Placez une ou plusieurs cartes de votre main sous votre deck. Repiochez autant de cartes."
+        ]
+    },
+    {
+        "id": 101,
+        "ref": "#101",
+        "name": "Gremlin",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/101.webp",
+        "desc": "S'il mange apr\u00e8s minuit, ce monstre est capable de p\u00e9ter et roter ind\u00e9finiment.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Yuriiick",
+        "drop": "0.61",
+        "abilities": [
+            "Continu : Si vous perdez un Score, r\u00e9cup\u00e9rez en main la premi\u00e8re carte de votre d\u00e9fausse.\nCombo : D\u00e9placez un autre Personnage d'un Terrain \u00e0 un autre."
+        ]
+    },
+    {
+        "id": 102,
+        "ref": "#102",
+        "name": "Steve",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/102.webp",
+        "desc": "Avant, il avait une ferme avec beaucoup d'animaux tr\u00e8s mignons, mais un jour, il a eu besoin d'XP...",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Jaycee",
+        "drop": "0.59",
+        "abilities": [
+            "Combo : Continu : CS Cette carte a +1 en Force pour chacun de vos Personnages sur ce Terrain."
+        ]
+    },
+    {
+        "id": 103,
+        "ref": "#103",
+        "name": "Steve",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/103.webp",
+        "desc": "Ne lui montrez surtout pas un diamant, sinon il devient inarr\u00eatable.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.57",
+        "abilities": []
+    },
+    {
+        "id": 104,
+        "ref": "#104",
+        "name": "Apprentie Sorci\u00e8re",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/104.webp",
+        "desc": "\"Plus qu'une goutte de polymorphie, et ma potion contre l'acn\u00e9 juv\u00e9nile sera enfin pr\u00eate",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Jaycee",
+        "drop": "0.53",
+        "abilities": [
+            "Cherchez dans votre deck et choisissez une carte que vous piochez.\nM\u00e9langez ensuite votre deck."
+        ]
+    },
+    {
+        "id": 105,
+        "ref": "#105",
+        "name": "Elfe",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/105.webp",
+        "desc": "Il veut faire des saloperies avec la chaussette de son ma\u00eetre.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.6",
+        "abilities": [
+            "Cherchez dans votre deck et choisissez une carte que vous piochez.\nM\u00e9langez ensuite votre deck.\nCombo : Jouez gratuitement une de vos cartes Personnage."
+        ]
+    },
+    {
+        "id": 106,
+        "ref": "#106",
+        "name": "Sel",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/106.webp",
+        "desc": "Quand il s'\u00e9nerve, il est capable de d\u00e9verser plus de sel que toute la mer M\u00e9diterran\u00e9e.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Jaycee",
+        "drop": "0.6",
+        "abilities": [
+            "Ce tour, si vous perdez le prochain Score, votre adversaire d\u00e9fausse 2 cartes de sa main."
+        ]
+    },
+    {
+        "id": 107,
+        "ref": "#107",
+        "name": "Sel",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/107.webp",
+        "desc": "Quand il rage, il a le pouvoir de faire augmenter en fl\u00e8che votre hypertension art\u00e9rielle.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.6",
+        "abilities": [
+            "Ce tour, si vous perdez le prochain Score, votre adversaire d\u00e9fausse un de ses Personnages en jeu.\nCombo : Reprenez en main un Terrain de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 108,
+        "ref": "#108",
+        "name": "Mastu",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/108.webp",
+        "desc": "Dr\u00f4le, muscl\u00e9, chanteur, a-t-il un d\u00e9faut ? Aucun, sauf son furoncle entre les fesses depuis 2014.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Guest",
+        "artist": "Jaycee",
+        "drop": "0.59",
+        "abilities": [
+            "Scorez tous les Terrains en jeu.\nCombo : Reprenez en main un Terrain de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 109,
+        "ref": "#109",
+        "name": "Deotoons",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/109.webp",
+        "desc": "Il est tr\u00e8s gentil, mais ne tombez surtout pas sur son double mal\u00e9fique Diabo.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Guest",
+        "artist": "Jaycee",
+        "drop": "0.58",
+        "abilities": [
+            "Continu : Au d\u00e9but de votre tour, reprenez en main la carte du dessus de votre d\u00e9fausse.\nCombo : Reprenez en main deux cartes du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 110,
+        "ref": "#110",
+        "name": "Cowboy",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/110.webp",
+        "desc": "C'est le premier \u00e0 avoir avou\u00e9 qu'il y avait assez de place pour tout le monde dans cette ville.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Ben GILETTI",
+        "drop": "0.6",
+        "abilities": [
+            "D\u00e9faussez la premi\u00e8re carte de votre deck.\nD\u00e9faussez tous les Personnages adverses en jeu qui ont moins en Force.\nCombo : Jouez une carte Personnage sans payer son co\u00fbt."
+        ]
+    },
+    {
+        "id": 111,
+        "ref": "#111",
+        "name": "Cowboy",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/111.webp",
+        "desc": "Il a gagn\u00e9 son duel contre McNuggets. En m\u00eame temps, c'\u00e9tait pas compliqu\u00e9, McNuggets \u00e9tait aveugle.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Ben GILETTI",
+        "drop": "0.58",
+        "abilities": [
+            "D\u00e9faussez la premi\u00e8re carte de votre deck.\nD\u00e9faussez tous les Personnages adverses en jeu qui ont plus en Force."
+        ]
+    },
+    {
+        "id": 112,
+        "ref": "#112",
+        "name": "Policier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/112.webp",
+        "desc": "\"Partir en intervention le ventre vide, c'est irresponsable, voire carr\u00e9ment dangereux !\"",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Ben GILETTI",
+        "drop": "0.61",
+        "abilities": [
+            "Continu : D\u00e9faussez ce Personnage \u00e0 la place de n'importe quel autre qui devait \u00eatre d\u00e9fauss\u00e9.\nCombo : Si vous avez un  Policier dans votre d\u00e9fausse, posez-le au-dessus de votre deck."
+        ]
+    },
+    {
+        "id": 113,
+        "ref": "#113",
+        "name": "Policier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/113.webp",
+        "desc": "\"Mon bon monsieur, votre femme qui accouche c'est pas mon probl\u00e8me. Ici, c'est une place r\u00e9serv\u00e9e.\"",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Ben GILETTI",
+        "drop": "0.59",
+        "abilities": [
+            "Continu : D\u00e9faussez ce Personnage \u00e0 la place de n'importe quel autre qui devait \u00eatre d\u00e9fauss\u00e9.\nCombo : Si vous avez un  Policier dans votre d\u00e9fausse, posez-le au-dessus de votre deck."
+        ]
+    },
+    {
+        "id": 114,
+        "ref": "#114",
+        "name": "Ob\u00e8se",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/114.webp",
+        "desc": "Il n'a absolument pas le temps de r\u00e9parer sa douche, il a raid tous les soirs !",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Ben GILETTI",
+        "drop": "0.6",
+        "abilities": [
+            "Continu : Si plus d'un Terrain est scor\u00e9 dans le tour, tous vos Personnages ont +1 en Force pour le tour."
+        ]
+    },
+    {
+        "id": 115,
+        "ref": "#115",
+        "name": "Singe",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/115.webp",
+        "desc": "\"OUH OUH AAAAH AH OUH caca OUUUUUH !",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Ben GILETTI",
+        "drop": "0.56",
+        "abilities": [
+            "D\u00e9placez un autre Personnage d'un Terrain vers un autre."
+        ]
+    },
+    {
+        "id": 116,
+        "ref": "#116",
+        "name": "Enqu\u00eateur",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/116.webp",
+        "desc": "La seule enqu\u00eate qu'il n'a pas encore r\u00e9solue, c'est celle du fant\u00f4me \u00e0 la k\u00e9kette tordue.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Ben GILETTI",
+        "drop": "0.59",
+        "abilities": [
+            "Regardez les 3 premi\u00e8res cartes de votre deck.\nPiochez-en-une, jouez-en une gratuitement et remettez la derni\u00e8re sur le deck."
+        ]
+    },
+    {
+        "id": 117,
+        "ref": "#117",
+        "name": "Potatoz",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/117.webp",
+        "desc": "Il aurait propos\u00e9 \u00e0 la production de jeter les candidats \u00e9limin\u00e9s dans une cage aux lions.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Guest",
+        "artist": "Ben GILETTI",
+        "drop": "0.62",
+        "abilities": [
+            "Scorez un Terrain. Combo : Continu : Cette carte a +1 en Force\npour chacun de vos Personnages sur le m\u00eame Terrain."
+        ]
+    },
+    {
+        "id": 118,
+        "ref": "#118",
+        "name": "Jiraya",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/118.webp",
+        "desc": "Il a d\u00e9pens\u00e9 le PIB de la Guyane, mais au moins sa tenue est tr\u00e8s jolie !",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Guest",
+        "artist": "Ben GILETTI",
+        "drop": "0.59",
+        "abilities": [
+            "Votre adversaire d\u00e9fausse depuis sa main jusqu'\u00e0 ce qu'il ait moins de cartes en main que vous."
+        ]
+    },
+    {
+        "id": 119,
+        "ref": "#119",
+        "name": "Feldup",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/119.webp",
+        "desc": "Cela fait maintenant 30 jours qu'il est coinc\u00e9 dans les backrooms, mais apparemment il s'y sent bien.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Guest",
+        "artist": "Ben GILETTI",
+        "drop": "0.61",
+        "abilities": [
+            "Votre adversaire d\u00e9fausse la carte du dessus de son deck.\nCombo : Votre adversaire d\u00e9fausse la carte du dessus de son deck."
+        ]
+    },
+    {
+        "id": 120,
+        "ref": "#120",
+        "name": "Bretonne Bigoud\u00e8ne",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/120.webp",
+        "desc": "\u00c7a fait 3 jours qu'elle p\u00e9dale apr\u00e8s celui qui a os\u00e9 voler sa recette de cr\u00eapes aux hu\u00eetres.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Ma\u00ebl LOHBRUNNER",
+        "drop": "0.65",
+        "abilities": [
+            "Si vous avez exactement 3 ou 5 cartes en main, r\u00e9cup\u00e9rez les 2 cartes du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 121,
+        "ref": "#121",
+        "name": "Roi",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/121.webp",
+        "desc": "On esp\u00e8re pour lui qu'il gardera sa t\u00eate, malr\u00e9 l'imp\u00f4t qu'il augmente chaque ann\u00e9e.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Ma\u00ebl LOHBRUNNER",
+        "drop": "0.59",
+        "abilities": [
+            "Continu : Au moment de scorer, vous pouvez jouer gratuitement une carte sur le Terrain scor\u00e9 sans en appliquer les effets."
+        ]
+    },
+    {
+        "id": 122,
+        "ref": "#122",
+        "name": "Hugo D\u00e9lire",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/122.webp",
+        "desc": "Le seul cowboy de la ville qui monte un \u00e2ne et arrive quand m\u00eame \u00e0 braquer des banques.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Guest",
+        "artist": "Ma\u00ebl LOHBRUNNER",
+        "drop": "0.61",
+        "abilities": [
+            "Continu : Vos autres Personnages qui ne sont ni Terracid ni Laink triplent leur Force."
+        ]
+    },
+    {
+        "id": 123,
+        "ref": "#123",
+        "name": "Xari",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/123.webp",
+        "desc": "Tout le monde l'appelle \"le fast\", m\u00eame sa copine, mais peut-\u00eatre pas pour les m\u00eames raisons.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Guest",
+        "artist": "Ma\u00ebl LOHBRUNNER",
+        "drop": "0.58",
+        "abilities": [
+            "Continu : Si vous devez d\u00e9fausser exactement 2 cartes d'un coup, vous n'en d\u00e9faussez qu'une.\nCombo : Reprenez en main la carte du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 124,
+        "ref": "#124",
+        "name": "Princesse",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/124.webp",
+        "desc": "\"Si vous trouvez que mes cheveux sont tr\u00e8s longs alors attendez de voir en dessous.\"",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Lhotus",
+        "drop": "0.58",
+        "abilities": [
+            "Continu : Les Personnages doivent \u00eatre pos\u00e9s sur le m\u00eame Terrain que celui de ce Personnage."
+        ]
+    },
+    {
+        "id": 125,
+        "ref": "#125",
+        "name": "Princesse",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/125.webp",
+        "desc": "\"On m'a donn\u00e9 cette d\u00e9licieuse pomme \u00e0 Gare du Nord, je peux donc la croquer sans risque !\"",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Lhotus",
+        "drop": "0.62",
+        "abilities": [
+            "Continu : Les Personnages doivent \u00eatre pos\u00e9s sur le m\u00eame Terrain que celui de ce Personnage."
+        ]
+    },
+    {
+        "id": 126,
+        "ref": "#126",
+        "name": "Prostitu\u00e9e",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/126.webp",
+        "desc": "\"Tu veux claquer de l'escalope et d\u00e9givrer le gigot, mon mignon ?\"",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Terracid",
+        "artist": "Lhotus",
+        "drop": "0.59",
+        "abilities": [
+            "Chaque joueur annonce un chiffre en m\u00eame temps.\nLe plus bas d\u00e9fausse autant de cartes.\nLe plus haut reprend un main autant de cartes de sa d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 127,
+        "ref": "#127",
+        "name": "F\u00e9e",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/127.webp",
+        "desc": "Elle est tr\u00e8s mignonne, mais m\u00e9fiez-vous : ses sorts pr\u00e9f\u00e9r\u00e9s sont l'abc\u00e8s anal et la varicelle",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "Lhotus",
+        "drop": "0.61",
+        "abilities": [
+            "Annoncez un chiffre et piochez la premi\u00e8re carte de votre deck. Si c'est un Personnage de Force \u00e9gale \u00e0 ce chiffre, mettez-le en jeu gratiutement et recommencez."
+        ]
+    },
+    {
+        "id": 128,
+        "ref": "#128",
+        "name": "G cram\u00e9",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/128.webp",
+        "desc": "\"J'explorais les catacombes et puis j'ai cram\u00e9\"",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Random",
+        "artist": "Lhotus",
+        "drop": "0.6",
+        "abilities": [
+            "Cherchez dans votre deck et choisissez 2 cartes que vous piochez.\nM\u00e9langez ensuite votre deck."
+        ]
+    },
+    {
+        "id": 129,
+        "ref": "#129",
+        "name": "Superconeri",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/129.webp",
+        "desc": "On peut penser qu'il est tr\u00e8s intelligent, mais sachez qu'il a d\u00e9ja construit un bateau en b\u00e9ton.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Guest",
+        "artist": "Lhotus",
+        "drop": "0.59",
+        "abilities": [
+            "Scorez 1 ou 2 Terrains.\nCombo : Reprenez en main la carte du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 130,
+        "ref": "#130",
+        "name": "Moine",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/130.webp",
+        "desc": "Il voulait \u00eatre charpentier, mais \u00e0 cause de sa calvitie, il a d\u00fb changer de vocation.",
+        "type": "perso",
+        "rarity": "Peu commune",
+        "perso": "Laink",
+        "artist": "O REDGE",
+        "drop": "0.55",
+        "abilities": [
+            "Continu : D\u00e9faussez ce personnage pour reprendre en main les 3 cartes du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 131,
+        "ref": "#131",
+        "name": "CyberLaink",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/131.webp",
+        "desc": "Il a fait pipi sur une voiture de la mafia et a d\u00e9marr\u00e9 une guerre de gangs qui dure depuis 10 ans.",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Laink",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.5",
+        "abilities": [
+            "D\u00e9faussez un Personnage adverse en jeu d'une Force de 2 maximum."
+        ]
+    },
+    {
+        "id": 132,
+        "ref": "#132",
+        "name": "CyberTerra",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/132.webp",
+        "desc": "\"Moi ? Le cybersexe ? N'importe quoi, trop nul le cybersexe, je vais jamais au cybersexe, moi.\"",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Terracid",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.49",
+        "abilities": [
+            "D\u00e9faussez un Personnage adverse en jeu d'une Force de 2 maximum.\nCombo : Votre adversaire d\u00e9fausse la carte du dessus de son deck."
+        ]
+    },
+    {
+        "id": 133,
+        "ref": "#133",
+        "name": "Jacques Flantier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/133.webp",
+        "desc": "\"BRANCARDIER ! J'ai des douleurs dans la nuque, c'est tr\u00e8s d\u00e9sagr\u00e9able ! Et j'ai mal au bidou !\"",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Laink",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.49",
+        "abilities": [
+            "D\u00e9faussez un Personnage adverse en jeu d'une Force de 1 maximum."
+        ]
+    },
+    {
+        "id": 134,
+        "ref": "#134",
+        "name": "Richard Flantier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/134.webp",
+        "desc": "H\u00e9ros de guerre l\u00e9gendaire (il n'a tir\u00e9 aucune balle et a pouss\u00e9 quelqu'un pour survivre).",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Terracid",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.53",
+        "abilities": [
+            "D\u00e9faussez un Personnage adverse en jeu d'une Force de 1 maximum."
+        ]
+    },
+    {
+        "id": 135,
+        "ref": "#135",
+        "name": "Dresseur",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/135.webp",
+        "desc": "Meilleur dresseur du monde mais ch\u00f4meur et pas de parents.",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Laink",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.47",
+        "abilities": [
+            "Continu : Quand votre adversaire pioche, il pioche une carte de plus et en d\u00e9fausse une."
+        ]
+    },
+    {
+        "id": 136,
+        "ref": "#136",
+        "name": "Dresseuse",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/136.webp",
+        "desc": "Oui, c'est un peu comme des combats de chiens sauf que, l\u00e0, on les garde dans des boules.",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Terracid",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.5",
+        "abilities": [
+            "Continu : Quand votre adversaire pioche, il pioche une carte de plus et en d\u00e9fausse une."
+        ]
+    },
+    {
+        "id": 137,
+        "ref": "#137",
+        "name": "Survivant",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/137.webp",
+        "desc": "Pour survivre, il a d\u00fb faire des choses horribles, comme boire l'eau du robinet.",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Laink",
+        "artist": "Yuriiick",
+        "drop": "0.5",
+        "abilities": [
+            "Si vous avez exactement 3 cartes en main, r\u00e9cup\u00e9rez la carte du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 138,
+        "ref": "#138",
+        "name": "Survivant",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/138.webp",
+        "desc": "\"Il me reste seulement 18 bo\u00eetes de conserve. Je ne tiendrai jamais la journ\u00e9e.\"",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Terracid",
+        "artist": "Yuriiick",
+        "drop": "0.52",
+        "abilities": [
+            "Si vous avez exactement 4 cartes en main, r\u00e9cup\u00e9rez la carte du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 139,
+        "ref": "#139",
+        "name": "Wicromania",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/139.webp",
+        "desc": "\"C'est le tout dernier Call Of neuf sous blister ? Je peux vous le reprendre 2\u20ac, si vous voulez.",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Laink",
+        "artist": "Yuriiick",
+        "drop": "0.48",
+        "abilities": [
+            "Annoncez un nombre, puis regardez la premi\u00e8re carte de votre deck.\nSi elle a cette valeur de Force, mettez-la en jeu gratuitement.\nSinon piochez-la"
+        ]
+    },
+    {
+        "id": 140,
+        "ref": "#140",
+        "name": "Voyant",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/140.webp",
+        "desc": "Il a eu sa premi\u00e8re vision avec une tranche de jambon de Bayonne, \u00e0 l'\u00e2ge de 9 ans.",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.54",
+        "abilities": [
+            "Regardez les 3 premi\u00e8res cartes de votre deck.\nPiochez-en-une, jouez-en une gratuitement et remettez la derni\u00e8re sur le deck."
+        ]
+    },
+    {
+        "id": 141,
+        "ref": "#141",
+        "name": "Pierre Rondin",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/141.webp",
+        "desc": "Il parait que Pinoche a embrass\u00e9 Giselle sur la bouche pr\u00e8s du vieux ch\u00e2taigner",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Laink",
+        "artist": "Jaycee",
+        "drop": "0.51",
+        "abilities": [
+            "Doublez la Force de tous vos autres Personnages jusqu'\u00e0 la fin de votre tour.\nCombo : Scorez un Terrain."
+        ]
+    },
+    {
+        "id": 142,
+        "ref": "#142",
+        "name": "Andr\u00e9 Rondin",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/142.webp",
+        "desc": "Il a jou\u00e9 avec un vieil obus trouv\u00e9 pr\u00e8s de la rivi\u00e8re et depuis il est puni.",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.51",
+        "abilities": [
+            "Doublez la Force de tous vos autres Personnages jusqu'\u00e0 la fin de votre tour."
+        ]
+    },
+    {
+        "id": 143,
+        "ref": "#143",
+        "name": "Professeur",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/143.webp",
+        "desc": "Le taux de r\u00e9ussite au BAC dans sa classe est de 15%, et c'est d\u00e9ja pas mal.",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Laink",
+        "artist": "Ma\u00ebl LOHBRUNNER",
+        "drop": "0.48",
+        "abilities": [
+            "Continu : Doublez la Force de tous vos Personnages de type Laink.\nCombo : Scorez un Terrain."
+        ]
+    },
+    {
+        "id": 144,
+        "ref": "#144",
+        "name": "Professeur",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/144.webp",
+        "desc": "La r\u00e9ponse est simple : \"On ne mange pas avec les doigts.\"",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Terracid",
+        "artist": "Ma\u00ebl LOHBRUNNER",
+        "drop": "0.51",
+        "abilities": [
+            "Continu : Doublez la Force de tous vos Personnages de type Terracid."
+        ]
+    },
+    {
+        "id": 145,
+        "ref": "#145",
+        "name": "Samoura\u00ef",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/145.webp",
+        "desc": "Il a rat\u00e9 son harakiri. Maintenant, il a une sonde urinaire et nettoie les murs du temple",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Laink",
+        "artist": "Lhotus",
+        "drop": "0.5",
+        "abilities": [
+            "Continu : Doublez la Force de tous vos Personnages sur le m\u00eame Terrain que ce Personnage."
+        ]
+    },
+    {
+        "id": 146,
+        "ref": "#146",
+        "name": "Sage Japonais",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/146.webp",
+        "desc": "Autrefois grand ma\u00eetre de kung-fu, il arnaque aujourd'hui les touristes sur le mont Fuji.",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Terracid",
+        "artist": "Lhotus",
+        "drop": "0.51",
+        "abilities": [
+            "Continu : Diviser par 2 la Force de tous les Personnages adverses sur le m\u00eame Terrain que ce Personnage.\nCombo : Scorez un Terrain."
+        ]
+    },
+    {
+        "id": 147,
+        "ref": "#147",
+        "name": "Jeanine",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/147.webp",
+        "desc": "Elle a tendance \u00e0 r\u00e2ler pendant qu'elle bosse et \u00e0 insulter copieusement Martine dans son dos.",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Laink",
+        "artist": "Lhotus",
+        "drop": "0.52",
+        "abilities": [
+            "Votre prochaine carte Personnage co\u00fbte 0 \u00e0 mettre en jeu ce tour.\nCombo : Reprenez en main la carte du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 148,
+        "ref": "#148",
+        "name": "Martine",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/148.webp",
+        "desc": "\"Les gens sont des porcs. C'est fou ce qu'on peut trouver par terre de nos jours.\"",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Terracid",
+        "artist": "Lhotus",
+        "drop": "0.49",
+        "abilities": [
+            "Votre prochaine carte Personnage co\u00fbte 0 \u00e0 mettre en jeu ce tour.\nCombo : Scorez un Terrain."
+        ]
+    },
+    {
+        "id": 149,
+        "ref": "#149",
+        "name": "Laink",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/149.webp",
+        "desc": "C'est ici que...",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Laink",
+        "artist": "Lhotus",
+        "drop": "0.51",
+        "abilities": [
+            "Continu : Si vous scorez un Terrain pendant votre tour, d\u00e9faussez ce Personnage.\nCombo avec Terracid : Vos Personnages co\u00fbtent 0 \u00e0 posez pour le tour."
+        ]
+    },
+    {
+        "id": 150,
+        "ref": "#150",
+        "name": "Terracid",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/150.webp",
+        "desc": "... tout a commenc\u00e9.",
+        "type": "perso",
+        "rarity": "Rare",
+        "perso": "Terracid",
+        "artist": "Lhotus",
+        "drop": "0.51",
+        "abilities": [
+            "Continu : Si vous scorez un Terrain pendant votre tour, d\u00e9faussez ce Personnage.\nCombo avec Laink : Vos Personnages co\u00fbtent 0 \u00e0 posez pour le tour."
+        ]
+    },
+    {
+        "id": 151,
+        "ref": "#151",
+        "name": "Cowboy",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/151.webp",
+        "desc": "C'est le premier \u00e0 avoir avou\u00e9 qu'il y avait assez de place pour tout le monde dans cette ville.",
+        "type": "perso",
+        "rarity": "Ultra Rare (U1)",
+        "perso": "Laink",
+        "artist": "Ben GILETTI",
+        "drop": "0.27",
+        "abilities": [
+            "D\u00e9faussez la premi\u00e8re carte de votre deck.\nD\u00e9faussez tous les Personnages adverses en jeu qui ont moins en Force.\nCombo : Jouez une carte Personnage sans payer son co\u00fbt."
+        ]
+    },
+    {
+        "id": 152,
+        "ref": "#152",
+        "name": "Cowboy",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/152.webp",
+        "desc": "Il a gagn\u00e9 son duel contre McNuggets. En m\u00eame temps, c'\u00e9tait pas compliqu\u00e9, McNuggets \u00e9tait aveugle.",
+        "type": "perso",
+        "rarity": "Ultra Rare (U1)",
+        "perso": "Terracid",
+        "artist": "Ben GILETTI",
+        "drop": "0.28",
+        "abilities": [
+            "D\u00e9faussez la premi\u00e8re carte de votre deck.\nD\u00e9faussez tous les Personnages adverses en jeu qui ont plus en Force."
+        ]
+    },
+    {
+        "id": 153,
+        "ref": "#153",
+        "name": "Policier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/153.webp",
+        "desc": "\"Partir en intervention le ventre vide, c'est irresponsable, voire carr\u00e9ment dangereux !\"",
+        "type": "perso",
+        "rarity": "Ultra Rare (U1)",
+        "perso": "Laink",
+        "artist": "Ben GILETTI",
+        "drop": "0.25",
+        "abilities": [
+            "Continu : D\u00e9faussez ce Personnage \u00e0 la place de n'importe quel autre qui devait \u00eatre d\u00e9fauss\u00e9.\nCombo : Si vous avez un  Policier dans votre d\u00e9fausse, posez-le au-dessus de votre deck."
+        ]
+    },
+    {
+        "id": 154,
+        "ref": "#154",
+        "name": "Policier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/154.webp",
+        "desc": "\"Mon bon monsieur, votre femme qui accouche c'est pas mon probl\u00e8me. Ici, c'est une place r\u00e9serv\u00e9e.\"",
+        "type": "perso",
+        "rarity": "Ultra Rare (U1)",
+        "perso": "Terracid",
+        "artist": "Ben GILETTI",
+        "drop": "0.3",
+        "abilities": [
+            "Continu : D\u00e9faussez ce Personnage \u00e0 la place de n'importe quel autre qui devait \u00eatre d\u00e9fauss\u00e9.\nCombo : Si vous avez un  Policier dans votre d\u00e9fausse, posez-le au-dessus de votre deck."
+        ]
+    },
+    {
+        "id": 155,
+        "ref": "#155",
+        "name": "Sel",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/155.webp",
+        "desc": "Quand il s'\u00e9nerve, il est capable de d\u00e9verser plus de sel que toute la mer M\u00e9diterran\u00e9e.",
+        "type": "perso",
+        "rarity": "Ultra Rare (U1)",
+        "perso": "Laink",
+        "artist": "Jaycee",
+        "drop": "0.23",
+        "abilities": [
+            "Ce tour, si vous perdez le prochain Score, votre adversaire d\u00e9fausse 2 cartes de sa main."
+        ]
+    },
+    {
+        "id": 156,
+        "ref": "#156",
+        "name": "Sel",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/156.webp",
+        "desc": "Quand il rage, il a le pouvoir de faire augmenter en fl\u00e8che votre hypertension art\u00e9rielle.",
+        "type": "perso",
+        "rarity": "Ultra Rare (U1)",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.28",
+        "abilities": [
+            "Ce tour, si vous perdez le prochain Score, votre adversaire d\u00e9fausse un de ses Personnages en jeu.\nCombo : Reprenez en main un Terrain de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 157,
+        "ref": "#157",
+        "name": "Fromager",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/157.webp",
+        "desc": "L'avantage est que, dans sa fromagerie, il peut faire un prout bien odorant en toute discr\u00e9tion.",
+        "type": "perso",
+        "rarity": "Ultra Rare (U1)",
+        "perso": "Laink",
+        "artist": "Jaycee",
+        "drop": "0.24",
+        "abilities": [
+            "Vous et votre adversaire d\u00e9faussez la premi\u00e8re carte de votre deck.\nSi la v\u00f4tre a plus en Force, r\u00e9cup\u00e9rez-la en main."
+        ]
+    },
+    {
+        "id": 158,
+        "ref": "#158",
+        "name": "Charcutier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/158.webp",
+        "desc": "Jambon, saucisson, terrine, rillettes, mais surtout un excellent boudin qui pue bien comme il faut.",
+        "type": "perso",
+        "rarity": "Ultra Rare (U1)",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.26",
+        "abilities": [
+            "Vous et votre adversaire d\u00e9faussez la premi\u00e8re carte de votre deck.\nSi la v\u00f4tre a plus en Force, r\u00e9cup\u00e9rez-la en main."
+        ]
+    },
+    {
+        "id": 159,
+        "ref": "#159",
+        "name": "Gotaga",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/159.webp",
+        "desc": "Les journaux l'appellent \"French Monster\" ou \"Celui qui a pris une belle t\u00eate par Terracid\"",
+        "type": "perso",
+        "rarity": "Ultra Rare (U1)",
+        "perso": "Guest",
+        "artist": "Yuriiick",
+        "drop": "0.28",
+        "abilities": [
+            "D\u00e9faussez un de vos Personnages en jeu.\nVotre adversaire d\u00e9fausse autant de cartes de son deck que sa valeur en Force."
+        ]
+    },
+    {
+        "id": 160,
+        "ref": "#160",
+        "name": "Amixem",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/160.webp",
+        "desc": "Grand entrepreneur et futur astronaute, mais a tendance \u00e0 \u00e9garer les objets offerts par ses amis.",
+        "type": "perso",
+        "rarity": "Ultra Rare (U1)",
+        "perso": "Guest",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.24",
+        "abilities": [
+            "Piochez une carte."
+        ]
+    },
+    {
+        "id": 161,
+        "ref": "#161",
+        "name": "Pirate",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/161.webp",
+        "desc": "On raconte que son navire a coul\u00e9 dans le sud du Pacifique (\u00e0 cause du poids de l'or dans la cale).",
+        "type": "perso",
+        "rarity": "Ultra Rare (U2)",
+        "perso": "Laink",
+        "artist": "Yuriiick",
+        "drop": "0.21",
+        "abilities": [
+            "Votre adversaire d\u00e9fausse jusqu'\u00e0 ce qu'il ait autant de cartes en main que vous."
+        ]
+    },
+    {
+        "id": 162,
+        "ref": "#162",
+        "name": "Pirate",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/162.webp",
+        "desc": "Il aime l'or, le sang, la bagarre, mais aussi l'odeur des croissants chauds de la boulangerie.",
+        "type": "perso",
+        "rarity": "Ultra Rare (U2)",
+        "perso": "Terracid",
+        "artist": "Yuriiick",
+        "drop": "0.22",
+        "abilities": [
+            "Votre adversaire d\u00e9fausse jusqu'\u00e0 ce qu'il ait autant de cartes en main que vous."
+        ]
+    },
+    {
+        "id": 163,
+        "ref": "#163",
+        "name": "Mastu",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/163.webp",
+        "desc": "Dr\u00f4le, muscl\u00e9, chanteur, a-t-il un d\u00e9faut ? Aucun, sauf son furoncle entre les fesses depuis 2014.",
+        "type": "perso",
+        "rarity": "Ultra Rare (U2)",
+        "perso": "Guest",
+        "artist": "Jaycee",
+        "drop": "0.23",
+        "abilities": [
+            "Scorez tous les Terrains en jeu.\nCombo : Reprenez en main un Terrain de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 164,
+        "ref": "#164",
+        "name": "G cram\u00e9",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/164.webp",
+        "desc": "\"J'explorais les catacombes et puis j'ai cram\u00e9\"",
+        "type": "perso",
+        "rarity": "Ultra Rare (U2)",
+        "perso": "Random",
+        "artist": "Lhotus",
+        "drop": "0.23",
+        "abilities": [
+            "Cherchez dans votre deck et choisissez 2 cartes que vous piochez.\nM\u00e9langez ensuite votre deck."
+        ]
+    },
+    {
+        "id": 165,
+        "ref": "#165",
+        "name": "CT",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/165.webp",
+        "desc": "Soldat d'\u00e9lite reconnu, il perd cependant tous ses moyens quand un Russe crie dans son micro.",
+        "type": "perso",
+        "rarity": "Ultra Rare (U2)",
+        "perso": "Laink",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.24",
+        "abilities": [
+            "Piochez une carte."
+        ]
+    },
+    {
+        "id": 166,
+        "ref": "#166",
+        "name": "Terro",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/166.webp",
+        "desc": "\"Il faut que je ma\u00eetrise mon nova pomme d'amour comme je ma\u00eetrise ma vie.\"",
+        "type": "perso",
+        "rarity": "Ultra Rare (U2)",
+        "perso": "Terracid",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.23",
+        "abilities": [
+            "Piochez une carte."
+        ]
+    },
+    {
+        "id": 167,
+        "ref": "#167",
+        "name": "Joueur Du Grenier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/167.webp",
+        "desc": "Il a oeuvr\u00e9 toute sa vie contre l'addiction aux drogues chez les d\u00e9velippeur de jeux.",
+        "type": "perso",
+        "rarity": "Ultra Rare (U2)",
+        "perso": "Guest",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.24",
+        "abilities": [
+            "D\u00e9faussez un Personnage en jeu de votre adversaire d'une Force de 2 maximum et scorez un Terrain.\nCombo : Votre adversaire d\u00e9fausse la carte du dessus de son deck."
+        ]
+    },
+    {
+        "id": 168,
+        "ref": "#168",
+        "name": "Seb",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/168.webp",
+        "desc": "Autrefois Youtubeur \u00e9m\u00e9rite, Seb vit d\u00e9sormais dans la jungle au sein d'une famille de chimpanz\u00e9s.",
+        "type": "perso",
+        "rarity": "Ultra Rare (U2)",
+        "perso": "Guest",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.19",
+        "abilities": [
+            "Piochez une carte. Combo : Continu : +2 en Force."
+        ]
+    },
+    {
+        "id": 169,
+        "ref": "#169",
+        "name": "Wicromania",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/169.webp",
+        "desc": "\"C'est le tout dernier Call Of neuf sous blister ? Je peux vous le reprendre 2\u20ac, si vous voulez.",
+        "type": "perso",
+        "rarity": "L\u00e9gendaire bronze",
+        "perso": "Laink",
+        "artist": "Yuriiick",
+        "drop": "0.17",
+        "abilities": [
+            "Annoncez un nombre, puis regardez la premi\u00e8re carte de votre deck.\nSi elle a cette valeur de Force, mettez-la en jeu gratuitement.\nSinon piochez-la"
+        ]
+    },
+    {
+        "id": 170,
+        "ref": "#170",
+        "name": "Voyant",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/170.webp",
+        "desc": "Il a eu sa premi\u00e8re vision avec une tranche de jambon de Bayonne, \u00e0 l'\u00e2ge de 9 ans.",
+        "type": "perso",
+        "rarity": "L\u00e9gendaire bronze",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.19",
+        "abilities": [
+            "Regardez les 3 premi\u00e8res cartes de votre deck.\nPiochez-en-une, jouez-en une gratuitement et remettez la derni\u00e8re sur le deck."
+        ]
+    },
+    {
+        "id": 171,
+        "ref": "#171",
+        "name": "Pierre Rondin",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/171.webp",
+        "desc": "Il parait que Pinoche a embrass\u00e9 Giselle sur la bouche pr\u00e8s du vieux ch\u00e2taigner",
+        "type": "perso",
+        "rarity": "L\u00e9gendaire bronze",
+        "perso": "Laink",
+        "artist": "Jaycee",
+        "drop": "0.18",
+        "abilities": [
+            "Doublez la Force de tous vos autres Personnages jusqu'\u00e0 la fin de votre tour.\nCombo : Scorez un Terrain."
+        ]
+    },
+    {
+        "id": 172,
+        "ref": "#172",
+        "name": "Andr\u00e9 Rondin",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/172.webp",
+        "desc": "Il a jou\u00e9 avec un vieil obus trouv\u00e9 pr\u00e8s de la rivi\u00e8re et depuis il est puni.",
+        "type": "perso",
+        "rarity": "L\u00e9gendaire bronze",
+        "perso": "Terracid",
+        "artist": "Jaycee",
+        "drop": "0.17",
+        "abilities": [
+            "Doublez la Force de tous vos autres Personnages jusqu'\u00e0 la fin de votre tour."
+        ]
+    },
+    {
+        "id": 173,
+        "ref": "#173",
+        "name": "Survivant",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/173.webp",
+        "desc": "Pour survivre, il a d\u00fb faire des choses horribles, comme boire l'eau du robinet.",
+        "type": "perso",
+        "rarity": "L\u00e9gendaire bronze",
+        "perso": "Laink",
+        "artist": "Yuriiick",
+        "drop": "0.17",
+        "abilities": [
+            "Si vous avez exactement 3 cartes en main, r\u00e9cup\u00e9rez la carte du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 174,
+        "ref": "#174",
+        "name": "Survivant",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/174.webp",
+        "desc": "\"Il me reste seulement 18 bo\u00eetes de conserve. Je ne tiendrai jamais la journ\u00e9e.\"",
+        "type": "perso",
+        "rarity": "L\u00e9gendaire bronze",
+        "perso": "Terracid",
+        "artist": "Yuriiick",
+        "drop": "0.17",
+        "abilities": [
+            "Si vous avez exactement 4 cartes en main, r\u00e9cup\u00e9rez la carte du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 175,
+        "ref": "#175",
+        "name": "Jacques Flantier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/175.webp",
+        "desc": "\"BRANCARDIER ! J'ai des douleurs dans la nuque, c'est tr\u00e8s d\u00e9sagr\u00e9able ! Et j'ai mal au bidou !\"",
+        "type": "perso",
+        "rarity": "L\u00e9gendaire argent",
+        "perso": "Laink",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.15",
+        "abilities": [
+            "D\u00e9faussez un Personnage adverse en jeu d'une Force de 1 maximum."
+        ]
+    },
+    {
+        "id": 176,
+        "ref": "#176",
+        "name": "Richard Flantier",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/176.webp",
+        "desc": "H\u00e9ros de guerre l\u00e9gendaire (il n'a tir\u00e9 aucune balle et a pouss\u00e9 quelqu'un pour survivre).",
+        "type": "perso",
+        "rarity": "L\u00e9gendaire argent",
+        "perso": "Terracid",
+        "artist": "L\u00e9onard LAM",
+        "drop": "0.12",
+        "abilities": [
+            "D\u00e9faussez un Personnage adverse en jeu d'une Force de 1 maximum."
+        ]
+    },
+    {
+        "id": 177,
+        "ref": "#177",
+        "name": "Jeanine",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/177.webp",
+        "desc": "Elle a tendance \u00e0 r\u00e2ler pendant qu'elle bosse et \u00e0 insulter copieusement Martine dans son dos.",
+        "type": "perso",
+        "rarity": "L\u00e9gendaire argent",
+        "perso": "Laink",
+        "artist": "Lhotus",
+        "drop": "0.15",
+        "abilities": [
+            "Votre prochaine carte Personnage co\u00fbte 0 \u00e0 mettre en jeu ce tour.\nCombo : Reprenez en main la carte du dessus de votre d\u00e9fausse."
+        ]
+    },
+    {
+        "id": 178,
+        "ref": "#178",
+        "name": "Martine",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/178.webp",
+        "desc": "\"Les gens sont des porcs. C'est fou ce qu'on peut trouver par terre de nos jours.\"",
+        "type": "perso",
+        "rarity": "L\u00e9gendaire argent",
+        "perso": "Terracid",
+        "artist": "Lhotus",
+        "drop": "0.17",
+        "abilities": [
+            "Votre prochaine carte Personnage co\u00fbte 0 \u00e0 mettre en jeu ce tour.\nCombo : Scorez un Terrain."
+        ]
+    },
+    {
+        "id": 179,
+        "ref": "#179",
+        "name": "Laink",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/179.webp",
+        "desc": "C'est ici que...",
+        "type": "perso",
+        "rarity": "L\u00e9gendaire dor\u00e9e",
+        "perso": "Laink",
+        "artist": "Lhotus",
+        "drop": "0.12",
+        "abilities": [
+            "Continu : Si vous scorez un Terrain pendant votre tour, d\u00e9faussez ce Personnage.\nCombo avec Terracid : Vos Personnages co\u00fbtent 0 \u00e0 posez pour le tour."
+        ]
+    },
+    {
+        "id": 180,
+        "ref": "#180",
+        "name": "Terracid",
+        "img": "https://collection-wankul.fr/_ipx/w_600/https://api.collection-wankul.fr/images/cards/180.webp",
+        "desc": "... tout a commenc\u00e9.",
+        "type": "perso",
+        "rarity": "L\u00e9gendaire dor\u00e9e",
+        "perso": "Terracid",
+        "artist": "Lhotus",
+        "drop": "0.26",
+        "abilities": [
+            "Continu : Si vous scorez un Terrain pendant votre tour, d\u00e9faussez ce Personnage.\nCombo avec Laink : Vos Personnages co\u00fbtent 0 \u00e0 posez pour le tour."
+        ]
+    }
+]
