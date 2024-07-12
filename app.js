@@ -22,6 +22,10 @@ const start = (port) => {
     const raritiesJsonPath = path.resolve(__dirname, 'data/rarity.json');
     const raritiesJson = fs.readFileSync(raritiesJsonPath);
     const rarities = JSON.parse(raritiesJson);
+
+    const raritiesJsonCopyPath = path.resolve(__dirname, 'data/rarity copy.json');
+    const raritiesJsonCopy = fs.readFileSync(raritiesJsonCopyPath);
+    const raritiesCopy = JSON.parse(raritiesJsonCopy);
     // rarities.sort((a, b) => a["id"] - b["id"]);
 
     let commands = [
@@ -55,14 +59,27 @@ const start = (port) => {
         res.json(rarities);
     })
 
+    app.get('/v1/rarity/modified', (req, res) => {
+        res.json(raritiesCopy);
+    })
+
     app.get('/v1/rarity/:id', (req, res) => {
-        const id = req.params.id - 1;
+        const id = req.params.id;
         if (!rarities[id]) { return res.status(404).json({ error: 'Rarity not found' }); }
         else {
             const rarity = rarities[id];
             res.json(rarity);
         }
     });
+
+    app.get('/v1/rarity/:id/cards', (req, res) => {
+        const id = req.params.id;
+        if (!rarities[id]) { return res.status(404).json({ error: 'Rarity not found' }); }
+
+        const cardsOfRarity = cards.filter(card => card.rarityId == id);
+        res.json(cardsOfRarity);
+    });
+
 
 
     app.listen(port, () => console.log(`App listening on port ${port}!`));
