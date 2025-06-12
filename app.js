@@ -33,6 +33,11 @@ const start = (port) => {
             id: 1,
             name: 'card',
             description: 'List of cards'
+        },
+        {
+            id: 2,
+            name: 'rarity',
+            description: 'List of rarities'
         }
     ];
 
@@ -52,7 +57,24 @@ const start = (port) => {
             const card = cards[id];
             res.json(card);
         }
+    })
 
+    app.get('/v1/card/:id/name', (req, res) => {
+        const id = req.params.id - 1;
+        if (!cards[id]) { return res.status(404).json({ error: 'Card not found' }); }
+        else {
+            const card = cards[id];
+            res.json(card["title"]);
+        }
+    })
+
+    app.get('/v1/card/:id/rarity', (req, res) => {
+        const id = req.params.id - 1;
+        if (!cards[id]) { return res.status(404).json({ error: 'Card not found' }); }
+        else {
+            const card = cards[id];
+            res.json(card["rarity"]);
+        }
     })
 
     app.get('/v1/rarity', (req, res) => {
@@ -72,7 +94,7 @@ const start = (port) => {
         }
     });
 
-    app.get('/v1/rarity/:id/cards', (req, res) => {
+    app.get('/v1/rarity/:id/list', (req, res) => {
         const id = req.params.id;
         if (!rarities[id]) { return res.status(404).json({ error: 'Rarity not found' }); }
 
