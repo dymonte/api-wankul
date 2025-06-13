@@ -23,9 +23,7 @@ const start = (port) => {
     const raritiesJson = fs.readFileSync(raritiesJsonPath);
     const rarities = JSON.parse(raritiesJson);
 
-    const raritiesJsonCopyPath = path.resolve(__dirname, 'data/rarity copy.json');
-    const raritiesJsonCopy = fs.readFileSync(raritiesJsonCopyPath);
-    const raritiesCopy = JSON.parse(raritiesJsonCopy);
+
     // rarities.sort((a, b) => a["id"] - b["id"]);
 
     let commands = [
@@ -79,10 +77,6 @@ const start = (port) => {
 
     app.get('/v1/rarity', (req, res) => {
         res.json(rarities);
-    })
-
-    app.get('/v1/rarity/modified', (req, res) => {
-        res.json(raritiesCopy);
     })
 
     app.get('/v1/rarity/:id', (req, res) => {
