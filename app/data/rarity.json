@@ -1,242 +1,245 @@
 [
     {
         "id": 1,
-        "accronym": "T",
         "name": "Terrain",
-        "priority": 1,
-        "txDrop": "10%",
-        "hasAchievement": true,
-        "achievementImg": "https://cdn-icons-png.flaticon.com/64/11333/11333816.png",
-        "isInFilter": true
+        "slug": "terrain",
+        "color": null,
+        "sortOrder": 1,
+        "dropRate": "10%",
+        "acronym": "T"
     },
     {
         "id": 2,
-        "accronym": "C",
         "name": "Commune",
-        "priority": 2,
-        "txDrop": "45%",
-        "hasAchievement": true,
-        "achievementImg": "https://cdn-icons-png.flaticon.com/64/5718/5718332.png",
-        "isInFilter": true
+        "slug": "commune",
+        "color": null,
+        "sortOrder": 2,
+        "dropRate": "45%",
+        "acronym": "C"
     },
     {
         "id": 3,
-        "accronym": "UC",
         "name": "Peu Commune",
-        "priority": 3,
-        "txDrop": "30%",
-        "hasAchievement": true,
-        "achievementImg": "https://cdn-icons-png.flaticon.com/64/10793/10793722.png",
-        "isInFilter": true
+        "slug": "peu-commune",
+        "color": null,
+        "sortOrder": 3,
+        "dropRate": "30%",
+        "acronym": "UC"
     },
     {
         "id": 4,
-        "accronym": "R",
         "name": "Rare",
-        "priority": 4,
-        "txDrop": "10%",
-        "hasAchievement": true,
-        "achievementImg": "https://cdn-icons-png.flaticon.com/64/9850/9850074.png",
-        "isInFilter": true
+        "slug": "rare",
+        "color": null,
+        "sortOrder": 4,
+        "dropRate": "10%",
+        "acronym": "R"
     },
     {
         "id": 5,
-        "accronym": "UR1",
         "name": "Ultra rare holo 1",
-        "priority": 5,
-        "txDrop": "2.24%",
-        "hasAchievement": true,
-        "achievementImg": "https://cdn-icons-png.flaticon.com/64/10356/10356544.png",
-        "isInFilter": true
+        "slug": "ultra-rare-holo-1",
+        "color": null,
+        "sortOrder": 5,
+        "dropRate": "2.24%",
+        "acronym": "UR1"
     },
     {
         "id": 6,
-        "accronym": "UR2",
         "name": "Ultra rare holo 2",
-        "priority": 6,
-        "txDrop": "1.60%",
-        "hasAchievement": true,
-        "achievementImg": "https://cdn-icons-png.flaticon.com/64/7064/7064889.png",
-        "isInFilter": true
+        "slug": "ultra-rare-holo-2",
+        "color": null,
+        "sortOrder": 6,
+        "dropRate": "1.60%",
+        "acronym": "UR2"
     },
     {
         "id": 7,
-        "accronym": "L-B",
-        "name": "L\u00e9gendaire Bronze",
-        "priority": 7,
-        "txDrop": "0.80%",
-        "hasAchievement": true,
-        "achievementImg": "https://api.iconify.design/emojione:3rd-place-medal.svg",
-        "isInFilter": true
+        "name": "Légendaire Bronze",
+        "slug": "legendaire-bronze",
+        "color": null,
+        "sortOrder": 7,
+        "dropRate": "0.80%",
+        "acronym": "L-B"
     },
     {
         "id": 8,
-        "accronym": "L-A",
-        "name": "L\u00e9gendaire Argent",
-        "priority": 8,
-        "txDrop": "0.28%",
-        "hasAchievement": true,
-        "achievementImg": "https://api.iconify.design/emojione:2nd-place-medal.svg",
-        "isInFilter": true
+        "name": "Légendaire Argent",
+        "slug": "legendaire-argent",
+        "color": null,
+        "sortOrder": 8,
+        "dropRate": "0.28%",
+        "acronym": "L-A"
     },
     {
         "id": 9,
-        "accronym": "L-O",
-        "name": "L\u00e9gendaire Or",
-        "priority": 9,
-        "txDrop": "0.08%",
-        "hasAchievement": true,
-        "achievementImg": "https://api.iconify.design/emojione:1st-place-medal.svg",
-        "isInFilter": true
+        "name": "Légendaire Or",
+        "slug": "legendaire-or",
+        "color": null,
+        "sortOrder": 9,
+        "dropRate": "0.08%",
+        "acronym": "L-O"
     },
     {
         "id": 10,
-        "accronym": "T-OR",
         "name": "Gagnant Ticket Or",
-        "priority": 100,
-        "txDrop": "5% des boosters",
-        "hasAchievement": true,
-        "achievementImg": "https://cdn-icons-png.flaticon.com/64/5736/5736436.png",
-        "isInFilter": true
+        "slug": "gagnant-ticket-or",
+        "color": null,
+        "sortOrder": 100,
+        "dropRate": "5% des boosters",
+        "acronym": "T-OR"
     },
     {
         "id": 11,
-        "accronym": "PGW-23",
         "name": "PGW 2023",
-        "priority": 1000,
-        "txDrop": "",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": true
+        "slug": "pgw-2023",
+        "color": null,
+        "sortOrder": 1000,
+        "dropRate": "",
+        "acronym": "PGW-23"
     },
     {
         "id": 12,
-        "accronym": "NOEL-23",
-        "name": "No\u00ebl 2023",
-        "priority": 1001,
-        "txDrop": "",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": true
+        "name": "PGW 2024",
+        "slug": "pgw-2024",
+        "color": null,
+        "sortOrder": 1000,
+        "dropRate": "",
+        "acronym": "PGW-24"
     },
     {
         "id": 13,
-        "accronym": "SP-CIV",
-        "name": "Starter Pack Civilisations",
-        "priority": 1002,
-        "txDrop": "",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": true
+        "name": "Noël 2023",
+        "slug": "noel-2023",
+        "color": null,
+        "sortOrder": 1001,
+        "dropRate": "",
+        "acronym": "NOEL-23"
     },
     {
         "id": 14,
-        "accronym": "SP-LEG",
-        "name": "Starter Pack L\u00e9gendes",
-        "priority": 1002,
-        "txDrop": "",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": true
+        "name": "Starter Pack Civilisations",
+        "slug": "starter-pack-civilisations",
+        "color": null,
+        "sortOrder": 1002,
+        "dropRate": "",
+        "acronym": "SP-CIV"
     },
     {
         "id": 15,
-        "accronym": "E-D",
-        "name": "Edition Speciale",
-        "priority": 1100,
-        "txDrop": "",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": true
+        "name": "Starter Pack Légendes",
+        "slug": "starter-pack-legendes",
+        "color": null,
+        "sortOrder": 1002,
+        "dropRate": "",
+        "acronym": "SP-LEG"
     },
     {
         "id": 16,
-        "accronym": "SP-CAR",
-        "name": "Starter Pack Carri\u00e8res",
-        "priority": 1003,
-        "txDrop": "N/A",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": true
+        "name": "Starter Pack Carrières",
+        "slug": "starter-pack-carrieres",
+        "color": null,
+        "sortOrder": 1003,
+        "dropRate": "N/A",
+        "acronym": "SP-CAR"
     },
     {
         "id": 17,
-        "accronym": "SP-POP",
         "name": "Starter Pack Pop-Culture",
-        "priority": 1003,
-        "txDrop": "N/A",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": true
+        "slug": "starter-pack-pop-culture",
+        "color": null,
+        "sortOrder": 1003,
+        "dropRate": "N/A",
+        "acronym": "SP-POP"
     },
     {
         "id": 18,
-        "accronym": "E-G",
-        "name": "Edition Gold",
-        "priority": 1200,
-        "txDrop": "N/A",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": true
+        "name": "Starter Pack TV",
+        "slug": "starter-pack-tv",
+        "color": null,
+        "sortOrder": 1004,
+        "dropRate": "N/A",
+        "acronym": "SP-TV"
     },
     {
         "id": 19,
-        "accronym": "SP-TV",
-        "name": "Starter Pack TV",
-        "priority": 1004,
-        "txDrop": "N/A",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": true
+        "name": "Starter Pack Jeux Vidéo",
+        "slug": "starter-pack-jeux-video",
+        "color": null,
+        "sortOrder": 1004,
+        "dropRate": "N/A",
+        "acronym": "SP-JV"
     },
     {
         "id": 20,
-        "accronym": "SP-JV",
-        "name": "Starter Pack Jeux Vid\u00e9o",
-        "priority": 1004,
-        "txDrop": "N/A",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": true
+        "name": "Starter Pack Showtime",
+        "slug": "starter-pack-showtime",
+        "color": null,
+        "sortOrder": 1005,
+        "dropRate": "",
+        "acronym": "SP-ST"
     },
     {
         "id": 21,
-        "accronym": "G-P",
+        "name": "Starter Pack Apocalypse",
+        "slug": "starter-pack-apocalypse",
+        "color": null,
+        "sortOrder": 1005,
+        "dropRate": "",
+        "acronym": "SP-APO"
+    },
+    {
+        "id": 22,
         "name": "Gemmes Pack",
-        "priority": 1050,
-        "txDrop": "N/A",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": true
+        "slug": "gemmes-pack",
+        "color": null,
+        "sortOrder": 1050,
+        "dropRate": "N/A",
+        "acronym": "G-P"
     },
     {
         "id": 23,
-        "accronym": "PGW-24",
-        "name": "PGW 2024",
-        "priority": 1000,
-        "txDrop": "",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": true
+        "name": "Edition Speciale",
+        "slug": "edition-speciale",
+        "color": null,
+        "sortOrder": 1100,
+        "dropRate": "",
+        "acronym": "E-D"
     },
     {
         "id": 24,
-        "accronym": "SP-ST",
-        "name": "Starter Pack Showtime",
-        "priority": 1005,
-        "txDrop": "",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": false
+        "name": "Edition Gold",
+        "slug": "edition-gold",
+        "color": null,
+        "sortOrder": 1200,
+        "dropRate": "N/A",
+        "acronym": "E-G"
     },
     {
         "id": 25,
-        "accronym": "SP-APO",
-        "name": "Starter Pack Apocalypse",
-        "priority": 1005,
-        "txDrop": "",
-        "hasAchievement": false,
-        "achievementImg": null,
-        "isInFilter": false
+        "name": "Starter Pack S05",
+        "slug": "starter-pack-s05",
+        "color": null,
+        "sortOrder": 500,
+        "dropRate": null,
+        "acronym": "SP-S5"
+    },
+    {
+        "id": 26,
+        "name": "DUO",
+        "slug": "duo",
+        "color": null,
+        "sortOrder": 500,
+        "dropRate": null,
+        "acronym": "DUO"
+    },
+    {
+        "id": 27,
+        "name": "PGW 2025",
+        "slug": "pgw-2025",
+        "color": "#000000",
+        "sortOrder": 1000,
+        "dropRate": null,
+        "acronym": "PGW-25"
     }
 ]
